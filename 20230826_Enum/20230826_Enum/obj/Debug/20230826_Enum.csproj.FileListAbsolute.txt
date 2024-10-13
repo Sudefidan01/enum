@@ -1,0 +1,8 @@
+C:\Users\pcc\source\repos\20230826_Enum\20230826_Enum\bin\Debug\20230826_Enum.exe.config
+C:\Users\pcc\source\repos\20230826_Enum\20230826_Enum\bin\Debug\20230826_Enum.exe
+C:\Users\pcc\source\repos\20230826_Enum\20230826_Enum\bin\Debug\20230826_Enum.pdb
+C:\Users\pcc\source\repos\20230826_Enum\20230826_Enum\obj\Debug\20230826_Enum.csproj.AssemblyReference.cache
+C:\Users\pcc\source\repos\20230826_Enum\20230826_Enum\obj\Debug\20230826_Enum.csproj.SuggestedBindingRedirects.cache
+C:\Users\pcc\source\repos\20230826_Enum\20230826_Enum\obj\Debug\20230826_Enum.csproj.CoreCompileInputs.cache
+C:\Users\pcc\source\repos\20230826_Enum\20230826_Enum\obj\Debug\20230826_Enum.exe
+C:\Users\pcc\source\repos\20230826_Enum\20230826_Enum\obj\Debug\20230826_Enum.pdb
